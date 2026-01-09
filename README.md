@@ -23,19 +23,13 @@ $ conda activate mini-rag
 
 ### (Optional) Setup you command line interface for better readability
 
-[](https://github.com/bakrianoo/mini-rag/tree/tut-001#optional-setup-you-command-line-interface-for-better-readability)
-
 ```shell
 export PS1="\[\033[01;32m\]\u@\h:\w\n\[\033[00m\]\$ "
 ```
 
 ## Installation
 
-[](https://github.com/bakrianoo/mini-rag/tree/tut-001#installation)
-
 ### Install the required packages
-
-[](https://github.com/bakrianoo/mini-rag/tree/tut-001#install-the-required-packages)
 
 ```shell
 $ pip install -r requirements.txt
@@ -43,10 +37,14 @@ $ pip install -r requirements.txt
 
 ### Setup the environment variables
 
-[](https://github.com/bakrianoo/mini-rag/tree/tut-001#setup-the-environment-variables)
-
 ```shell
 $ cp .env.example .env
 ```
 
 Set your environment variables in the `.env` file. Like `OPENAI_API_KEY` value.
+
+## Run the FastAPI server
+
+```shell
+$ uvicorn main:app --reload --host 0.0.0.0 --port 5000
+```
