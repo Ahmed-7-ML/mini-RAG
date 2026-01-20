@@ -1,0 +1,142 @@
+ابقي شوف ال AI SaaS و ممكن تبقي فتحة خير ان شاء الله
+استعد وذاكر كويس
+
+**وان ليس للانسان الا ما سعى و ان سعيه سوف يري**
+***استغل كل فرصه انك تثبت انك جامد و تستحق***
+خايف من حاجه ؟
+- اه
+-- اعملها
+
+1. Deep Learning From StatQuest (2 -> 7 Lessons) and 1st Lecture from Stanford. [Material from NVIDIA] -> 3 Hours
+2. PyTorch from OpenCV -> 2 Hours  ---> DONE
+2. Complete LLMOps Course (Datacamp and Youtube). -> 3 Hours
+3. Build LLM-based Application.(Real-World Projects (OpenAI)). -> 2 Hours
+4. Prompt Engineering (Abo Bakr) -> 1 Hour
+----------
+- راجع على مشروع التخرج و شوف ممكن تعمل ايه -> ____ (Qwen, NVidia)
+- شوف حل للمشكلة اللى حلها Quantization or Knowledge Distillation
+- Hugging Face (Yousef Hosni, Ahmed Yosry and Eman Raslan) -> DONE (7/15 Videos)
+- ساعتين Pytorch من المهندس عمرو اسامه و مشروع من ال 5
+- ممكن تدخل فى حاجه جديدة زى ال NLP 1,2 from Datacamp -.> LLM Course (Hugging Face)
+
+# Kaggle API KEY = KGAT_94ec2c2676aa6a9f5c0ab7a7c365ca03
+1- Classification
+2- Regression
+3- Clustering
+4- Time Series Forecasting
+5- NLP Text Classifier
+2- CNN, RNN, LSTM, Transformers
+3- RAG Applications, HuggingFace, LangGraph, LangFlow, Agentic AI, Generative AI, n8n
+عاوز اعمل مراجعه على اى مشروع Machine Learning / Deep Learning بحيث يكون Template على اى مشروع
+احدد الخطوات من الاول للاخر ازاى بعمل Encoding/Scaling  و امتى اختار الانواع المناسبةو هكذا لحد ال Deployment
+---------------
+Data Structure & Algorithms و ازاى اربطهم بال Machine Learning
+OOP وازاى اربطه و استخدمه فى ال Machine Learning & Pytorch
+OOP + SOLID
+---------
+Machine Learning Reviews through Projects, Articles and Notes 
+Deep Learning Go Ahead in parallel with NLP & Computer Vision
+اضافة خدمة ال Data Visualization & Reports using Plotly, Dash & Power BI
+و برضه خدمة ال Recommendation System يعج ما نتعلمها ان شاء الله
+NLP Tasks (Sentiment Analysis, Fake News Detection, Text Classification) على خمسات
+----------------------------------------------------------------------------------------------------------------------------
+
+1. Full Fine-Tuning
+1.1. Training GPT-2 From Scratch: A Step-by-Step Guide
+https://lnkd.in/dd_F9nW5
+
+2. Parameter Efficient Fine-Tuning (PEFT)
+2.1. Finetune Falcon-7b with LoRA: A Step-by-Step Guide
+https://lnkd.in/dcTgWVJa
+
+3. Instruction Fine-Tuning
+3.1. Instruction Fine-Tuning FLAN-T5 Large Language Models for Summarization: Step-by-Step Guide
+https://lnkd.in/dcTgWVJa
+
+3.2. Instruction Fine-Tuning LLM using SFT for Financial Sentiment: A Step-by-Step Guide
+https://lnkd.in/dWJwZvjd
+
+4. Reasoning Fine-Tuning
+4.1. Fine-Tuning DeepSeek R1 on Reasoning Task with Unsloth [Part 1]
+https://lnkd.in/dA3EBGE3
+
+4.2. Fine-Tuning DeepSeek R1 on Reasoning Task with Unsloth [Part 2]
+https://lnkd.in/dqeurqMh
+
+4.3. Gemma 3 Financial Reasoning Fine-Tuning
+https://lnkd.in/dbGHqaua
+
+4.4. Gemma 3 Medical Reasoning Fine-Tuning
+https://lnkd.in/d5JMGFD5
+
+4.5. Gemma 3 Reasoning Fine-Tuning with GRPO [Part 1]
+https://lnkd.in/dymMEeGe
+
+4.6. Gemma 3 Reasoning Fine-Tuning with GRPO [Part 2]
+https://lnkd.in/gT8MbxKs
+
+4.7. Qwen 3 Mathematical Reasoning Fine Tuning with GRPO Technique #1
+https://lnkd.in/df3bdXiF
+
+5. Fine-Tuning Frameworks
+5.1. Fine-Tuning Mistral 7B with Hugging Face AutoTrain to Generate Better Midjourney Prompts
+https://lnkd.in/dmAgHfuR
+
+6. Post Training
+6.1. Visual Guide to LLM Preference Tuning With RLHF & PPO
+https://lnkd.in/dWzYSgme
+
+➡ You can find them in this GitHub Repo:
+https://lnkd.in/dXnyJCsZ
+-------------------------------------------------
+
+🚀 Most companies use a 4-round interview structure for AI / ML / GenAI Engineer roles.
+ Here’s the breakdown + how to crack each one ⬇️
+✅ Round 1: Coding / Problem-Solving
+ • DSA: arrays, strings, graphs, hashmaps, binary search.
+ • Python: dicts, list comps, regex.
+ • ML coding: vector similarity, implement logistic regression, matrix ops.
+🔸 How to crack:
+ → Solve 1–2 coding problems daily (LeetCode).
+ → Add ML-flavored coding (NumPy, Pandas, sklearn basics).
+
+✅ Round 2: ML / GenAI Fundamentals
+ • Core ML: bias-variance, overfitting, evaluation metrics.
+ • DL: neural nets, transformers, embeddings, attention.
+ • GenAI: pretraining, fine-tuning, RAG basics.
+🔸 How to crack:
+ → Revise with Dive into Deep Learning or fast.ai.
+ → Make notes on transformers, embeddings, vector DBs, LLM APIs.
+
+✅ Round 3: System Design (AI / GenAI Focused)
+ • End-to-end: recommendation system, RAG pipeline, chatbot.
+ • Scale issues: latency, memory, retrieval efficiency.
+ • Trade-offs: accuracy vs cost, prompt caching vs dynamic querying.
+🔸 How to crack:
+ → Sketch small architectures (RAG with vector DB + LLM, real-time TTS pipeline).
+ → Read case studies from OpenAI, Anthropic, Cohere.
+
+✅ Round 4: Projects + Applied GenAI
+ • Deep dive into your own projects.
+ • Expect: "How did you optimize inference?" "How did you evaluate quality?"
+ • May need to debug/extend your own project live.
+🔸 How to crack:
+ → Build 2–3 strong GenAI projects (chatbot, summarizer, code assistant, TTS).
+ → Document: architecture diagrams, key metrics, lessons learned.
+------------------------------------------------------------------------
+
+- ([FastAPI](https://www.bing.com/ck/a?!&&p=2513a1a249179240bd4a0b194d4386394c66e611c07d8c4cd5df8ac4cf7eb47fJmltdHM9MTc2MzA3ODQwMA&ptn=3&ver=2&hsh=4&fclid=335028d2-eaba-61a9-1c16-3d12ebc6605a&u=a1L3ZpZGVvcy9zZWFyY2g_cT1mYXN0YXBpK2ZvcittYWNoaW5lK2xlYXJuaW5nJnZpZXc9ZGV0YWlsJm1pZD01QkEzRjNGQjI1MTc3MTIzRTdCNTVCQTNGM0ZCMjUxNzcxMjNFN0I1JkZPUk09VklSRQ))
+
+- [[Powerful FastAPI + Docker](https://machinelearningmastery.com/step-by-step-guide-to-deploying-machine-learning-models-with-fastapi-and-docker/)]
+
+- [[Streamlit](https://docs.streamlit.io/)]
+
+- [[Towards Streamlit](https://towardsdatascience.com/building-a-machine-learning-web-application-using-streamlit-8c3d942f7b35/)]
+
+- [[Towards ML](https://towardsdatascience.com/step-by-step-approach-to-build-your-machine-learning-api-using-fast-api-21bd32f2bbdb/)]
+
+- [[AWS](https://learn.365datascience.com/courses/ai-model-deployment-on-aws/introduction-to-the-course/)]
+
+- [[AI Engineer Track](https://learn.365datascience.com/career-tracks/ai-engineer/)]
+
+- [https://learn.365datascience.com/courses/llm-engineering-in-practice-with-streamlit-and-openai/introduction-to-the-course/]

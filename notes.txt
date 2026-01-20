@@ -1,3 +1,11 @@
 - Combine Software Engineering with Machine Learning/ Data Science.
 - Journey From Notebook to Production.
 - main.py -> Should be Minimal ASAP.
+# It's preferred that logic in route must be called by a function
+# not create the logic inside the route.
+
+# FastAPI Boiler Plate
+# MVC = Model-View-Controller
+Model -> 
+Controller -> Logic
+View -> 
